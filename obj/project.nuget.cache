@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/t7JeCkMo7PTSUZUoTz1ElEHrwwBnIkFNT916+KwSdE/rv+F19zAhrTlqarkOq+KDB13INWtv18QJ7KVH/NbQw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ckhai\\Downloads\\Ckhai-prg2_t06_team-11-f5de4da3dbc4\\Ckhai-prg2_t06_team-11-f5de4da3dbc4\\Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ckhai\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
